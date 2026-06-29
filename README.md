@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Neural%20%26%20Hybrid%20Information%20Retrieval&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Header" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Neural%20%26%20Hybrid%20Information%20Retrieval&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+
+</div>
 
 ---
 
