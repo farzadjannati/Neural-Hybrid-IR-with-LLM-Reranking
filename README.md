@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Neural%20%26%20Hybrid%20Information%20Retrieval&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Neural%20%26%20Hybrid%20Information%20Retrieval&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 </div>
 
 ---
@@ -9,13 +9,13 @@
 This project presents a comprehensive, multi-stage Intelligent Information Retrieval (IIR) framework. It explores the full spectrum of modern search technologies, transitioning from traditional lexical models to state-of-the-art Large Language Model (LLM) reranking architectures. The pipeline is designed to evaluate, fine-tune, and hybridize various retrieval methodologies to achieve optimal precision and recall.
 
 <div align="left">
- [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
- [![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
- [![HuggingFace](https://img.shields.io/badge/HuggingFace-Sentence_Transformers-F5A623?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
- [![PEFT](https://img.shields.io/badge/PEFT-LoRA_Fine--Tuning-4B5563?style=flat)](https://huggingface.co/docs/peft/index)
- [![OpenAI](https://img.shields.io/badge/OpenAI-LLM_Reranking-10A37F?style=flat&logo=openai&logoColor=white)](https://openai.com/)
- [![Dataset](https://img.shields.io/badge/BEIR-NFCorpus-0284C7?style=flat)](#)
- [![License](https://img.shields.io/badge/License-MIT-4B5563?style=flat)](https://opensource.org/licenses/MIT)
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white" /></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-Sentence_Transformers-F5A623?style=flat&logo=huggingface&logoColor=white" /></a>
+  <a href="https://huggingface.co/docs/peft/index"><img src="https://img.shields.io/badge/PEFT-LoRA_Fine--Tuning-4B5563?style=flat" /></a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-LLM_Reranking-10A37F?style=flat&logo=openai&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/BEIR-NFCorpus-0284C7?style=flat" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-4B5563?style=flat" /></a>
 </div>
 
 ## Abstract
