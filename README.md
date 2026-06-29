@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:D4AF37&height=220&section=header&text=Neural%20and%20Hybrid%20Information%20Retrieval&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Neural and Hybrid IR Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090416,50:1A0B2E,100:F43F5E&height=220&section=header&text=Neural%20and%20Hybrid%20Information%20Retrieval&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Neural and Hybrid IR Header" />
 </div>
 
 ---
